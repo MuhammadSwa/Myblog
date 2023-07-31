@@ -1,4 +1,4 @@
 baseURL = 'https://muhammadswa.github.io/'
 languageCode = 'en-us'
-title = 'Personal blog'
-theme='tophat-theme'
+title = 'Personal Blog'
+theme='ananke'

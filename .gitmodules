@@ -2,3 +2,6 @@
 	path = MyBlog/public
 	url = git@github.com:MuhammadSwa/MuhammadSwa.github.io.git
 	branch = main
+[submodule "MyBlog/themes/ananke"]
+	path = MyBlog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
